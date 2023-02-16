@@ -8,7 +8,10 @@ Jan 2023
 
 Ascii character game made using rust.
 
-Contributors:
+Contributors: 
+
 Gaurav Talreja
+
 Kavin Satheeshkumar
+
 Maanav 
