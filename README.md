@@ -6,7 +6,7 @@ Jan 2023
 Ascii character game made using rust.
 
 
-Contributors: 
+Other contributors: 
 
 Gaurav Talreja
 
